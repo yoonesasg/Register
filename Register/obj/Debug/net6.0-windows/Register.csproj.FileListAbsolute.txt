@@ -1,0 +1,17 @@
+C:\Users\yoone\OneDrive\Desktop\Register\Register\bin\Debug\net6.0-windows\Register.exe
+C:\Users\yoone\OneDrive\Desktop\Register\Register\bin\Debug\net6.0-windows\Register.deps.json
+C:\Users\yoone\OneDrive\Desktop\Register\Register\bin\Debug\net6.0-windows\Register.runtimeconfig.json
+C:\Users\yoone\OneDrive\Desktop\Register\Register\bin\Debug\net6.0-windows\Register.dll
+C:\Users\yoone\OneDrive\Desktop\Register\Register\bin\Debug\net6.0-windows\Register.pdb
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.csproj.AssemblyReference.cache
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.Form1.resources
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.csproj.GenerateResource.cache
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.AssemblyInfoInputs.cache
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.AssemblyInfo.cs
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.csproj.CoreCompileInputs.cache
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.dll
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\refint\Register.dll
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.pdb
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\Register.genruntimeconfig.cache
+C:\Users\yoone\OneDrive\Desktop\Register\Register\obj\Debug\net6.0-windows\ref\Register.dll
